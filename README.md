@@ -23,4 +23,4 @@ https://www.ceneo.pl/84514582#tab=reviews_scroll
 |for how many helpful| | |
 |for how many unhelpful| | |
 |publishing date| | |
-|purchase date| | |
+|purchase date| | | 
